@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766366010934",
+    "project_id": "schooltracking-6f477",
+    "storage_bucket": "schooltracking-6f477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766366010934:android:2707e48a366c38abdbd297",
+        "android_client_info": {
+          "package_name": "com.example.parent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88J3coXRg6K2SkN7AEbEePA9RSXtqFKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
